@@ -1,1 +1,0 @@
-# kotlin-sintax-practice
