@@ -5,4 +5,4 @@ Kotlin Sintax Example
 * Class ( Enum class, Sealed class, Data class)
 * Interfaces
 * Higher order functions
-* Null variables
+* Null values
